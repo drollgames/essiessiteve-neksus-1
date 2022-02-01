@@ -1,2 +1,1 @@
-# essiessiteve-neksus-1
-Nekisus serdivor 
+check our api [here](https://api.gslk.ga/api/v1/sstv-nexus)
